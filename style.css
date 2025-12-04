@@ -1,5 +1,7 @@
 body{
     background-color: blue;
+    font-size: 20px;
+    border: solid red;
 }
 h1{
     color: red;
