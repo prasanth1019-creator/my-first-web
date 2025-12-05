@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: aliceblue;
     
 }
 h1{
@@ -9,6 +9,7 @@ h1{
     border: solid red;
     padding: 20px;
     margin: 30px;
+    border-radius: 10px;
 }
 a{
     background-color: orange;
@@ -17,6 +18,8 @@ a{
     text-decoration: none;
     border-radius: 20px;
     font: size 20px; ;
+    display: inline-block;
+    margin: 10px;
 
 }
 a:hover {
